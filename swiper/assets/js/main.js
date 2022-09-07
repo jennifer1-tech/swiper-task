@@ -12,8 +12,8 @@ let swiperThumbs = new Swiper(".gallery-thumbs", {
   slidesPerView: 3,
   centeredSlides: true,
   slideToClickedSlide: true,
-});
 
+  
   pagination: {
     el: ".swiper-pagination",
     type: "fraction",
